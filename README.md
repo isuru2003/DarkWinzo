@@ -33,8 +33,8 @@
 
 ##
 
-### ⚒️ Setup Wiki - Kurulum [Full Guide - By Ravindu Manoj]
-[![Setup - Raviya](https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=75 )](https://github.com/RavinduManoj/RaviyaBot/wiki)
+### ⚒️ Setup Wiki - Kurulum [Full Guide - By Isuru Lakshan]
+[![Setup - Raviya](https://github.com/isuru2003/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=75 )]
 
 ##
 
