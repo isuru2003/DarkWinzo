@@ -15,8 +15,8 @@
 
 
 <div align="center">
-  <img src="https://ibb.co/XbqJRgf/temp_user_profile1621662133773.jpeg" width="250" height="250">
-  <h1>🍁  Whatsapp Bot By Ravindu Manoj  🍁</h1>
+  <img src="https://ibb.co/XbqJRgf">
+  <h1>🍁  Whatsapp Bot By Isuru Lakshan  🍁</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
 <p align="center">
